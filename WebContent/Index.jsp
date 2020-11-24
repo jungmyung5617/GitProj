@@ -9,7 +9,7 @@
 <body>
 	<fieldset>
 		<legend>Git수업</legend>
-		<h2>첫번째 제 목추가</h2>
+		<h2>첫번째 제 목추가 수정</h2>
 	</fieldset>
 </body>
 </html>
