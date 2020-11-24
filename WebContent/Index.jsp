@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Git수업</title>
 </head>
 <body>
-
+	<h2>Git수업입니다</h2>
 </body>
 </html>
